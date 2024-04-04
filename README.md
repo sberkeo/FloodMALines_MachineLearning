@@ -1,4 +1,4 @@
-# ForexMaLinesMachineLearning
+# Forex FloodMALines_MachineLearning
 FOREX FLOOD MA LINES TREND SERIES FOR MACHINE LEARNING (MQL - MetaTrader)
 
 Generate Flood MA lines and perform relational trend analysis. Utilize Machine Learning to generate trend series suitable for Deep Learning applications. These trend series enable the extraction of insights based on various parametric data, including the current trend analysis for any pair, trend robustness, and price range expectations.
