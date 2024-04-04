@@ -15,7 +15,7 @@ For commercial project please contact with us "eurousdforexlive@gmail.com"
 For other developments please visit https://youtube.com/ForexSignals
 
 FLOODMALINES.mq5
-Copyright 2024, SERDAR BERKE OZYASAR
+Copyright 2024, GNU PUBLIC LICENSE
 https://www.sberke.com
 
 
