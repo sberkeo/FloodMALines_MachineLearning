@@ -1,0 +1,2 @@
+# ForexMaLinesMachineLearning
+FOREX FLOOD MA LINES TREND SERIES FOR MACHINE LEARNING (MQL - MetaTrader)
